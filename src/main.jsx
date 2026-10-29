@@ -1,7 +1,7 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
 import { motion, useMotionValue, useSpring } from "framer-motion";
-import { ArrowUpRight, Menu, X } from "lucide-react";
+import { ArrowUpRight, Instagram, Menu, X } from "lucide-react";
 import "./styles.css";
 
 const services = [
@@ -760,6 +760,25 @@ function App() {
 
       <footer className="footer-billie">
         <span>{t.footer}</span>
+        <div className="footer-credit">
+          <span>Crafted by </span>
+          <a
+            className="footer-credit-link"
+            href="https://wa.me/6282195670441"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Hubungi PortoWeb.id via WhatsApp"
+          >PortoWeb.id</a>
+          <a
+            className="footer-credit-icon"
+            href="https://www.instagram.com/portoweb.id/"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Instagram PortoWeb.id"
+          >
+            <Instagram size={13} />
+          </a>
+        </div>
       </footer>
     </div>
   );
