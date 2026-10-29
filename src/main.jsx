@@ -65,7 +65,7 @@ function Visual({ type }) {
 const experience = [
   {
     company: "Artha iValas Global Money Changer",
-    period: "2026 — Present",
+    period: "July 2026 — Present",
     role: "Staff Money Changer",
     description:
       "Supporting finance and office operations through petty cash management, vendor coordination, purchasing, and administrative support.",
@@ -201,7 +201,7 @@ const T = {
     about: {
       kicker: "HELLO THERE",
       n1: "I’m Ivana",
-      n2: "Chrisoliemi Gezali.",
+      n2: "Chrisoliem Gezali.",
       lead: "I enjoy supporting people and business operations, keeping tasks organized, and helping work run smoothly.",
       body: "I bring a versatile background in mathematics education, sales administration, and personal assistance. My experience has helped me develop strong organizational skills, attention to detail, communication, and the ability to adapt to different responsibilities.",
       loc: "Based in Tangerang, Indonesia."
@@ -215,7 +215,7 @@ const T = {
         {
           company: "Artha iValas Global Money Changer",
           link: "Artha iValas Global Money Changer ↗",
-          period: "2026 — Present",
+          period: "July 2026 — Present",
           role: "Staff Money Changer",
           desc: "Assisting customers with foreign currency exchange transactions, handling cash, verifying transaction amounts, and maintaining accurate transaction records.",
           tags: ["Foreign Currency", "Cash Handling", "Cash Counting & Verification", "Transaction Processing", "Customer Service", "Attention to Detail"]
@@ -281,7 +281,7 @@ const T = {
       open: "OPEN TO OPPORTUNITIES IN EDUCATION, ADMINISTRATION & BUSINESS SUPPORT",
       cta: "LET’S CONNECT"
     },
-    footer: "2026 © IVANA CHRISOLIEMI GEZALI"
+    footer: "2026 © IVANA CHRISOLIEM GEZALI"
   },
 
   id: {
@@ -298,7 +298,7 @@ const T = {
     about: {
       kicker: "HALO",
       n1: "Saya Ivana",
-      n2: "Chrisoliemi Gezali.",
+      n2: "Chrisoliem Gezali.",
       lead: "Saya senang mendukung orang dan operasional bisnis, menjaga tugas tetap terorganisir, dan membantu pekerjaan berjalan lancar.",
       body: "Saya memiliki latar belakang yang luas di bidang pendidikan matematika, administrasi penjualan, dan asisten pribadi. Pengalaman tersebut mengasah keterampilan organisasi, ketelitian, komunikasi, serta kemampuan beradaptasi dengan berbagai tanggung jawab.",
       loc: "Berdomisili di Tangerang, Indonesia."
@@ -312,7 +312,7 @@ const T = {
         {
           company: "Artha iValas Global Money Changer",
           link: "Artha iValas Global Money Changer ↗",
-          period: "2026 — Sekarang",
+          period: "Juli 2026 — Sekarang",
           role: "Staff Money Changer",
           desc: "Melayani pelanggan dalam transaksi penukaran valuta asing, menangani uang tunai, memverifikasi jumlah transaksi, serta memastikan pencatatan transaksi dilakukan dengan akurat.",
           tags: ["Penukaran Valuta Asing", "Penanganan Uang Tunai", "Penghitungan dan Verifikasi Uang", "Pemrosesan Transaksi", "Pencatatan Transaksi", "Pelayanan Pelanggan", "Ketelitian"],
@@ -378,7 +378,7 @@ const T = {
       open: "TERBUKA UNTUK KESEMPATAN DI BIDANG PENDIDIKAN, ADMINISTRASI & DUKUNGAN BISNIS",
       cta: "MARI TERHUBUNG"
     },
-    footer: "2026 © IVANA CHRISOLIEMI GEZALI"
+    footer: "2026 © IVANA CHRISOLIEM GEZALI"
   }
 };
 
@@ -459,7 +459,7 @@ function App() {
 
 
       <header className="nav">
-        <button className="logo" onClick={() => go("home")}>IVANA CHRISOLIEMI GEZALI</button>
+        <button className="logo" onClick={() => go("home")}>IVANA CHRISOLIEM GEZALI</button>
 
         <nav className={menuOpen ? "open" : ""}>
           <button
@@ -528,7 +528,7 @@ function App() {
               <div className="hero-photo">
                 <img
                   src="./ivana.jpeg"
-                  alt="Ivana Chrisoliemi Gezali"
+                  alt="Ivana Chrisoliem Gezali"
                 />
               </div>
 
@@ -586,7 +586,7 @@ function App() {
             <div className="about-card-photo">
               <img
                 src="./ivana.jpeg"
-                alt="Ivana Chrisoliemi Gezali"
+                alt="Ivana Chrisoliem Gezali"
               />
             </div>
 
