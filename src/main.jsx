@@ -190,8 +190,8 @@ const T = {
   en: {
     nav: { about: "ABOUT", resume: "RESUME", contact: "CONTACT" },
     hero: {
-      l1: "ADMINISTRATION",
-      l2: "& BUSINESS OPERATIONS.",
+      l1: "IVANA",
+      l2: "GEZALI.",
       desc: "Adaptable across education, administration, and business support.",
       cta: "VIEW MY WORK",
       based: "BASED IN",
@@ -287,8 +287,8 @@ const T = {
   id: {
     nav: { about: "TENTANG SAYA", resume: "RESUME", contact: "KONTAK" },
     hero: {
-      l1: "ADMINISTRASI",
-      l2: "& OPERASIONAL BISNIS.",
+      l1: "IVANA",
+      l2: "GEZALI.",
       desc: "Adaptif di bidang pendidikan, administrasi, dan dukungan bisnis.",
       cta: "LIHAT PENGALAMAN SAYA",
       based: "BERDOMISILI DI",
